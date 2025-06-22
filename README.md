@@ -122,6 +122,10 @@ Self-Healing-Text-Classification/
 ├── api_test.py               # Optional API test script
 └── example.py                # Optional CLI example
 
+## 🎥 Demo
+▶️ [Watch the demo video]
+https://www.loom.com/share/c4cca183d38d4f7f8d6460460710c669
+
 📜 License
 This project is for academic use only, developed under the AI Internship Project.
 
